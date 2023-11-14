@@ -7,6 +7,7 @@ const VideoDetails = ({ video }) => {
   const location = `https://www.youtube.com/embed/${video.id.videoId}`;
   return (
     <div>
+      <h1>Selected Video</h1>
       <div className="ui embed">
         <iframe src={location} title={video.snippet.title} />
       </div>

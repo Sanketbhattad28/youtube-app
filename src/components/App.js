@@ -15,7 +15,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("NASA");
+    this.onTermSubmit("Web developement");
   }
 
   onTermSubmit = (term) => {
