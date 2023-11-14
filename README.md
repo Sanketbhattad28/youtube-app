@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+Site link: https://sanket-youtube.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Snapshots:
+![image](https://github.com/Sanketbhattad28/youtube-app/assets/45588753/3c7f888b-ad87-43a3-8eed-fa0efd1d6271)
 
 ## Available Scripts
 
